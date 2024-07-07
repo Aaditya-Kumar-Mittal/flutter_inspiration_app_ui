@@ -1,4 +1,4 @@
-# flutter_ui_practices
+# Flutter Inspiration App UI
 
 A new Flutter project.
 
